@@ -1,0 +1,24 @@
+item { 
+	name:'bench'
+	id:1
+}
+item { 
+	name:'firehdyrant'
+	id:2
+}
+item { 
+	name:'trafficlight'
+	id:3
+}
+item { 
+	name:'potholes'
+	id:4
+}
+item { 
+	name:'zebracross'
+	id:5
+}
+item { 
+	name:'bollard'
+	id:6
+}
