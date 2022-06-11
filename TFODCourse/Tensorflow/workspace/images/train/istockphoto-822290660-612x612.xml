@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>istockphoto-822290660-612x612.jpg</filename>
+	<path>/my-project-name/istockphoto-822290660-612x612.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>zebracross</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>291</ymin>
+			<xmax>555</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>trafficlight</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>61</ymin>
+			<xmax>259</xmax>
+			<ymax>107</ymax>
+		</bndbox>
+	</object>
+</annotation>

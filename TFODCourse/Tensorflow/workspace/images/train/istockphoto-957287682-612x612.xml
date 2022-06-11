@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>istockphoto-957287682-612x612.jpg</filename>
+	<path>/my-project-name/istockphoto-957287682-612x612.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>433</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bench</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>259</ymin>
+			<xmax>183</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bench</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>347</xmin>
+			<ymin>262</ymin>
+			<xmax>466</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>istockphoto-1275360430-612x612.jpg</filename>
+	<path>/my-project-name/istockphoto-1275360430-612x612.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bollard</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>87</ymin>
+			<xmax>180</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bollard</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>3</ymin>
+			<xmax>305</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>
