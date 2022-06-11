@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>DK9ghOGV4AEnFLk.jpg</filename>
+	<path>/my-project-name/DK9ghOGV4AEnFLk.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bench</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>680</ymin>
+			<xmax>674</xmax>
+			<ymax>1195</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bench</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>448</xmin>
+			<ymin>444</ymin>
+			<xmax>662</xmax>
+			<ymax>575</ymax>
+		</bndbox>
+	</object>
+</annotation>

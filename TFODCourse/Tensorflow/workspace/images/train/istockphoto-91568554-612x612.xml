@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>istockphoto-91568554-612x612.jpg</filename>
+	<path>/my-project-name/istockphoto-91568554-612x612.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>407</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>firehdyrant</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>95</ymin>
+			<xmax>232</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

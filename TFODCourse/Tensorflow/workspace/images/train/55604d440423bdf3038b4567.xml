@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>55604d440423bdf3038b4567.jpeg</filename>
+	<path>/my-project-name/55604d440423bdf3038b4567.jpeg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bollard</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>201</ymin>
+			<xmax>198</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bollard</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>100</ymin>
+			<xmax>161</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>
