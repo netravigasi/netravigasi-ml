@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>20.jpg</filename>
+	<path>/my-project-name/20.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>910</width>
+		<height>1213</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>firehdyrant</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>300</ymin>
+			<xmax>612</xmax>
+			<ymax>1022</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>zebracross</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>10</ymin>
+			<xmax>903</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

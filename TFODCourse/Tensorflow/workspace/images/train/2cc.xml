@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>2cc.jpg</filename>
+	<path>/my-project-name/2cc.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>potholes</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>211</ymin>
+			<xmax>286</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>potholes</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>415</xmin>
+			<ymin>288</ymin>
+			<xmax>861</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>

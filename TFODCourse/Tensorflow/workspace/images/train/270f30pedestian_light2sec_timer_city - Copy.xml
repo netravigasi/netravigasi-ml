@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>270f30pedestian_light2sec_timer_city - Copy.jpg</filename>
+	<path>/my-project-name/270f30pedestian_light2sec_timer_city - Copy.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>327</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>trafficlight</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>22</ymin>
+			<xmax>311</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>
