@@ -1,0 +1,23 @@
+# _ODT_LABEL_MAP_PATH = 'mscoco_label_map.pbtxt'
+# _TFLITE_LABEL_PATH = "ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8/tflite_label_map.txt"
+
+# category_index = label_map_util.create_category_index_from_labelmap(
+#     _ODT_LABEL_MAP_PATH)
+# f = open(_TFLITE_LABEL_PATH, 'w')
+# for class_id in range(1, 91):
+#   if class_id not in category_index:
+#     f.write('???\n')
+#     continue
+#   name = category_index[class_id]['name']
+#   f.write(name+'\n')
+# f.close()
+
+# from tflite_support.metadata_writers import object_detector
+# from tflite_support.metadata_writers import writer_utils
+
+# _TFLITE_MODEL_WITH_METADATA_PATH = "ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8/model_with_metadata.tflite"
+
+# writer = object_detector.MetadataWriter.create_for_inference(
+#     writer_utils.load_file(_TFLITE_MODEL_PATH), input_norm_mean=[127.5], 
+#     input_norm_std=[127.5], label_file_paths=[_TFLITE_LABEL_PATH])
+# writer_utils.save_file(writer.populate(), _TFLITE_MODEL_WITH_METADATA_PATH)
