@@ -1,7 +1,6 @@
 name of labelling for images:
 
-redlight
-greenlight
+trafficlight
 bench
 firehydrant
 potholes
